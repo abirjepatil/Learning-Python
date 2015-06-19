@@ -1,0 +1,15 @@
+Python is available on a variety of p[latforms...
+* Unix
+* Windows
+* OSX
+* Mobile Devices.
+
+-------------------------------------------------------
+Installing Python on OSX
+-------------------------------------------------------
+
+Download pkg and install
+https://www.python.org/downloads/mac-osx/
+
+ 
+

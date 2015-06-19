@@ -1,0 +1,10 @@
+What is Python?
+interpretted object oriented programming language.
+
+Python is interpreted.
+Python is interactive
+Python is Object Oriented Programming Language.
+Python is Beginners Language.
+------------------------------------------------
+
+
