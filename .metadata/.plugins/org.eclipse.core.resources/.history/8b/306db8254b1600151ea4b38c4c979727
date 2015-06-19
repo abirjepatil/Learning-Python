@@ -1,0 +1,10 @@
+#Utility to display the memory occupied by a process
+import os
+
+_processes =os.popen('ps aux')
+_userName=os.getlogin()
+#print os.getlogin
+print "User That  has logged in", os.getlogin()
+
+_message="Do you want to Display Information About",_userName
+raw_input(_message)

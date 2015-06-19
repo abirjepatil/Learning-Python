@@ -1,0 +1,7 @@
+#Get the Input from the user
+print "Enter your age"
+age = raw_input();
+print age
+
+################################
+age= raw_input("Enter your ID");

@@ -1,0 +1,23 @@
+-- VERSION_4
+-- START DISKCACHE
+/Volumes/MAC/Git/Learning Python/Learning-Python/.metadata/.plugins/org.eclipse.core.resources/.projects/Experiments/com.python.pydev.analysis/v2_indexcache
+Printing|1434693504000|/Volumes/MAC/Git/Learning Python/Learning-Python/Experiments/Printing.py
+GettingInputs|1434693721000|/Volumes/MAC/Git/Learning Python/Learning-Python/Experiments/GettingInputs.py
+Arguments|1434693835000|/Volumes/MAC/Git/Learning Python/Learning-Python/Experiments/Arguments.py
+HelloWorld|1434692676000|/Volumes/MAC/Git/Learning Python/Learning-Python/Experiments/HelloWorld.py
+NumericalOperations|1434693015000|/Volumes/MAC/Git/Learning Python/Learning-Python/Experiments/NumericalOperations.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=Printing
+1=GettingInputs
+-- END DICTIONARY
+-- START TREE 1
+3
+_id|1|_id!11@
+_my|2|_myLastName!19@_myName!19@
+age|1|age!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

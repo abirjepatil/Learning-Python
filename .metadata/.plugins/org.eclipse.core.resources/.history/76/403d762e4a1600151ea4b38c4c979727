@@ -1,0 +1,3 @@
+#Utility to display the memory occupied by a process
+
+os.popen('ps aux')

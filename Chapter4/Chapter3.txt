@@ -1,0 +1,53 @@
+---------------------------
+Variables in Python
+---------------------------
+
+a = 10
+b = 10
+name = "Abhishek"
+Instead we can use
+name= studentName="Abhishek"
+a=b=10
+
+---------------------------
+
+Data Types in Python
+
+Standard Data Types
+1. Numbers: Stores numeric Values. Changing the value of this variable results in creation of a new Object.
+**** del is used to delete the reference to the object.
+Eg: a= 10
+    del a
+
+Types of Numeric Data Types
+1. int 
+2. long
+3. float
+4. complex Numbers
+ 
+Lower Case L after a number denotes a long.
+----------------------------
+2. String
+
+
+* print str prints the entire string
+* print str[0] prints the first character.
+* print str[2:5] prints substring from 3rd character to the 5th character.
+* print str * 2 : prints the string two times.
+
+
+3. List
+Syntax: list ['abcd',786,2.23]
+
+
+4. Tuple:
+A tuple is similar to list. 
+
+
+5. Dictionary
+
+
+
+
+
+

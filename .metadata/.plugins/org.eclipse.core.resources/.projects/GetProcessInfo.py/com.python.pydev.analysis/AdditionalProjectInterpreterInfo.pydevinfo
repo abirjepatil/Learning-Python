@@ -1,0 +1,21 @@
+-- VERSION_4
+-- START DISKCACHE
+/Volumes/MAC/Git/Learning Python/Learning-Python/.metadata/.plugins/org.eclipse.core.resources/.projects/GetProcessInfo.py/com.python.pydev.analysis/v2_indexcache
+ProcessInfo|1434694979000|/Volumes/MAC/Git/Learning Python/Learning-Python/GetProcessInfo.py/ProcessInfo.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=ProcessInfo
+-- END DICTIONARY
+-- START TREE 1
+6
+_me|1|_message!11@
+_os|1|_osName!11@
+_pr|1|_processes!11@
+_us|1|_userName!11@
+opt|1|option!11@
+p|0|
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
