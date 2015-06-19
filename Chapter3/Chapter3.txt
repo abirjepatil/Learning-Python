@@ -4,5 +4,16 @@ Python SYS Module
 It Serves two purposes.
 - sys.argv provides a list of arguments
 - len(sys.argv) provides the number of arguments entered by the user.
+--------------------------------------------
+Parsing Command Line Arguments
+
+getopt Module 
+1.Helps in parsing Command Line Arguments
+2.Provides two functions and one exception.
+
+1. args         : List of parameters to be parsed.
+2  options      : String of option letters that the script should recognize.
+3  long_options : Optional Parameter, if specified must be a list of strings.
+
 
 
