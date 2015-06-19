@@ -1,0 +1,8 @@
+Python SYS Module
+
+* It provides access to the command line arguments.
+It Serves two purposes.
+- sys.argv provides a list of arguments
+- len(sys.argv) provides the number of arguments entered by the user.
+
+
